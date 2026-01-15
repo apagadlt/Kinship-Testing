@@ -52,14 +52,14 @@ rsconnect/
 *.jpg
 *.jpeg
 
-# 1_Clean SimLRs_v2_batch.ipynb
-1_Clean SimLRs_v1.ipynb
-2_ROC analysis_v1.ipynb
-2_ROC analysis with Delong_v2.ipynb
-2_ROC_analysis_with_Delong_alpha01_BH_Holm_v3.ipynb
-2_ROC_analysis_with_Delong_alpha01_Holm_with_CI_v4.ipynb
-# 2_ROC_analysis_with_Delong_alpha01_Holm_with_CI_v5.ipynb
-2_ROC_analysis_with_Delong_alpha01_Holm_with_CI_v6.ipynb
+# 1_Get_SimLRs_v2 - batch process.ipynb
+1_Get_ SimLRs_v1 - single.ipynb
+2_ROC_v1.ipynb
+2_ROC_v2 - Delong.ipynb
+2_ROC_v3 - Delong_alpha01_Holm_BH.ipynb
+2_ROC_v4 - Delong_alpha01_95CI_Holm.ipynb
+2_ROC_v5 - Delong_alpha01_95CI_Holm.ipynb
+# 2_ROC_v6 - Delong_alpha01_95CI_Holm_BestThreshold.ipynb
 # 3_Merge AUC files.ipynb
 4_AUCwithCI Plot_FC_v1.ipynb
 4_AUCwithCI Plot_FC_v2.ipynb
